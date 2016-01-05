@@ -2,4 +2,4 @@
 
 Missed Call Dashboard
 
-Sinatra app + Asterisk
+Asterisk + Sinatra app + MySQL 
